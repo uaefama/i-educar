@@ -75,5 +75,3 @@ pacote, siga as instruções de instalação encontradas no repositório do proj
 Para realizar o _upgrade_ da versão do i-Educar, considere seguir os passos no [guia de atualização](UPGRADE.md).
 
 ---
-
-Powered by [Portábilis](https://uaefama.com.br/).
