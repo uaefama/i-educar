@@ -1,8 +1,5 @@
 # i-Educar
 
-[![Latest Release](https://img.shields.io/github/release/uaefama/i-educar.svg?label=latest%20release)](https://github.com/uaefama/i-educar/releases)
-[![Build Status](https://github.com/uaefama/i-educar/actions/workflows/tests.yml/badge.svg)](https://github.com/uaefama/i-educar/actions)
-
 _“Lançando o maior software livre educacional do Brasil!”._
 
 **Nós somos a Comunidade i-Educar e acreditamos que podemos transformar o nosso
