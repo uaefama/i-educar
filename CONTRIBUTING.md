@@ -19,7 +19,7 @@ Existem diversas formas de contribuir com o projeto:
 ### Reportando bugs
 
 Se encontrou um bug no i-Educar você pode reportá-lo usando a ferramenta de
-[issues do GitHub](https://github.com/portabilis/i-educar/issues). Porém antes
+[issues do GitHub](https://github.com/uaefama/i-educar/issues). Porém antes
 de enviar seu bug é importante fazer as seguintes verificações:
 
 1. Atualize seu repositório local no branch `master` mais recente. Talvez seu
@@ -28,7 +28,7 @@ de enviar seu bug é importante fazer as seguintes verificações:
    issues.
 
 Se o bug realmente não foi resolvido ou acolhido então está na hora de
-[criar uma nova issue](https://github.com/portabilis/i-educar/issues/new). No
+[criar uma nova issue](https://github.com/uaefama/i-educar/issues/new). No
 título da issue tente resumir da melhor forma o problema evitando títulos
 genéricos como *"Falha no sistema"* ou *"Problemas na instalação"*. No corpo da
 issue, tente seguir o seguinte formato:
@@ -73,7 +73,7 @@ label **bug** à issue.
 
 Se você encontrou alguma falha de segurança **não use as issues para reportar o
 bug**. Escreva o seu report diretamente para o endereço de e-mail
-`comunidade@portabilis.com.br`. Ele será analisado, validado e corrigido de
+`comunidade@uaefama.com.br`. Ele será analisado, validado e corrigido de
 acordo com as necessidades. Pedimos que **não torne a falha pública** para
 segurança de todos que utilizam a plataforma em seu estado atual.
 
@@ -87,7 +87,7 @@ algum recurso ou qualquer outra coisa relacionada, siga estes passos:
 1. Certifique-se de que sua ideia já não esteja sendo abordada em nosso
    [roadmap](./README.md#roadmap-de-tecnologia);
 2. Também verifique se a ideia já não está pressente em nossas
-   [issues do GitHub](https://github.com/portabilis/i-educar/issues);
+   [issues do GitHub](https://github.com/uaefama/i-educar/issues);
 3. Defenda a sua ideia e explique de forma convincente porque ela deve ser
    acolhida. Eis algumas questões a considerar:
    1. Você realmente esta propondo uma ideia só ou um conjunto de ideias?
@@ -97,7 +97,7 @@ algum recurso ou qualquer outra coisa relacionada, siga estes passos:
       nossas prioridades?
 
 Tendo passado pelo crivo de todos estes questionamentos basta
-[criar uma nova issue](https://github.com/portabilis/i-educar/issues/new)
+[criar uma nova issue](https://github.com/uaefama/i-educar/issues/new)
 descrevendo as melhorias e usando o label **melhorias**.
 
 ### Pedindo recursos
@@ -118,7 +118,7 @@ escolar com apenas alguns cliques, otimizando de forma radical este processo que
 antes poderia demorar semanas envolvendo o trabalho de muitas pessoas.
 
 Para criar seu pedido de recurso basta
-[criar uma nova issue](https://github.com/portabilis/i-educar/issues/new) usando
+[criar uma nova issue](https://github.com/uaefama/i-educar/issues/new) usando
 o label **recurso**.
 
 ### Discutindo as issues
@@ -198,7 +198,7 @@ formas de contribuir:
   conhecimento técnico? Não se acanhe e participe também nas issues do GitHub.
 
 Pensou em alguma outra forma de contribuir? Compartilha com a gente! Escreva
-para `comunidade@portabilis.com.br` e conte sua história.
+para `comunidade@uaefama.com.br` e conte sua história.
 
 # Créditos
 
@@ -209,6 +209,6 @@ utilizados em outras comunidades. Destacamos:
 - [Ghost](https://docs.ghost.org/v1/docs/contributing)
 - [Ember.js](https://github.com/emberjs/ember.js/blob/master/CONTRIBUTING.md)
 - [Ruby on Rails](https://github.com/rails/rails/blob/master/CONTRIBUTING.md)
-- [Propostas de William Espindola](https://github.com/portabilis/i-educar/issues/201)
+- [Propostas de William Espindola](https://github.com/uaefama/i-educar/issues/201)
 
 ... dentre outros!
