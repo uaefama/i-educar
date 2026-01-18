@@ -1,7 +1,7 @@
 # i-Educar
 
-[![Latest Release](https://img.shields.io/github/release/portabilis/i-educar.svg?label=latest%20release)](https://github.com/portabilis/i-educar/releases)
-[![Build Status](https://github.com/portabilis/i-educar/actions/workflows/tests.yml/badge.svg)](https://github.com/portabilis/i-educar/actions)
+[![Latest Release](https://img.shields.io/github/release/uaefama/i-educar.svg?label=latest%20release)](https://github.com/uaefama/i-educar/releases)
+[![Build Status](https://github.com/uaefama/i-educar/actions/workflows/tests.yml/badge.svg)](https://github.com/uaefama/i-educar/actions)
 
 _“Lançando o maior software livre educacional do Brasil!”._
 
@@ -36,7 +36,7 @@ Acreditamos que o sucesso do projeto depende diretamente da interação clara e
 objetiva entre os membros da Comunidade. Por isso, estamos definindo algumas
 políticas para que estas interações nos ajudem a crescer juntos! Você pode
 consultar algumas destas boas práticas em nosso [código de
-conduta](https://github.com/portabilis/i-educar/blob/master/CODE-OF-CONDUCT.md).
+conduta](https://github.com/uaefama/i-educar/blob/master/CODE-OF-CONDUCT.md).
 
 Além disso, gostamos de meios de comunicação assíncrona, onde não há necessidade de
 respostas em tempo real. Isso facilita a produtividade individual dos
@@ -45,7 +45,7 @@ colaboradores do projeto.
 | Canal de comunicação                                                         | Objetivos                                                                                                                                                                                                          |
 |------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Fórum](https://forum.ieducar.org)                                           | - Tirar dúvidas <br>- Discussões de como instalar a plataforma<br> - Discussões de como usar funcionalidades<br> - Suporte entre membros de comunidade<br> - FAQ da comunidade (sobre o produto e funcionalidades) |
-| [Issues do Github](https://github.com/portabilis/i-educar/issues/new/choose) | - Sugestão de novas funcionalidades<br> - Reportar bugs<br> - Discussões técnicas                                                                                                                                  |
+| [Issues do Github](https://github.com/uaefama/i-educar/issues/new/choose) | - Sugestão de novas funcionalidades<br> - Reportar bugs<br> - Discussões técnicas                                                                                                                                  |
 | [Telegram](https://t.me/ieducar )                                            | - Comunicar novidades sobre o projeto<br> - Movimentar a comunidade<br>  - Falar tópicos que **não** demandem discussões profundas                                                                                 |
 
 Qualquer outro grupo de discussão não é reconhecido oficialmente pela
@@ -67,20 +67,16 @@ Consulte o passo a passo no [guia de instalação](INSTALL.md).
 O i-Educar possui um conjunto de pacotes (módulos) que o extendem e o tornam um software mais robusto. Para instalar um
 pacote, siga as instruções de instalação encontradas no repositório do projeto.
 
-- [Pré-Matrícula Digital](https://github.com/portabilis/pre-matricula-digital/)
-- [Módulo de Relatórios](https://github.com/portabilis/i-educar-reports-package/)
-- [Módulo de Biblioteca](https://github.com/portabilis/i-educar-library-package/)
-- [Módulo de Transporte](https://github.com/portabilis/i-educar-transport-package/)
-- [Módulo do Educacenso](https://github.com/portabilis/i-educar-educacenso-package/)
+- [Pré-Matrícula Digital](https://github.com/uaefama/pre-matricula-digital/)
+- [Módulo de Relatórios](https://github.com/uaefama/i-educar-reports-package/)
+- [Módulo de Biblioteca](https://github.com/uaefama/i-educar-library-package/)
+- [Módulo de Transporte](https://github.com/uaefama/i-educar-transport-package/)
+- [Módulo do Educacenso](https://github.com/uaefama/i-educar-educacenso-package/)
 
 ## Upgrade
 
 Para realizar o _upgrade_ da versão do i-Educar, considere seguir os passos no [guia de atualização](UPGRADE.md).
 
-## Perguntas frequentes (FAQ)
-
-Algumas perguntas aparecem recorrentemente. Olhe primeiro por aqui: [FAQ](https://github.com/portabilis/i-educar-website/blob/master/docs/faq.md).
-
 ---
 
-Powered by [Portábilis](https://portabilis.com.br/).
+Powered by [Portábilis](https://uaefama.com.br/).
